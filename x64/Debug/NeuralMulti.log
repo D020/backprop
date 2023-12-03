@@ -1,0 +1,3 @@
+﻿  NeuralMulti.cpp
+C:\Users\wiowa\source\repos\NeuralMulti\NeuralMulti\Model.h(40,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  NeuralMulti.vcxproj -> C:\Users\wiowa\source\repos\NeuralMulti\x64\Debug\NeuralMulti.exe
